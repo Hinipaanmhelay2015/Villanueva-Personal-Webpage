@@ -1,0 +1,37 @@
+body {
+	background: black
+	margin: 0;
+	font-family:cambria;
+	color: black
+}
+
+
+
+h1, h2, h3 { color:black}
+
+h1 {
+	font-family:Lucida Calligraphy ;
+	font-size:40px;
+	margin: 0;
+	text-align:center;
+}
+h2 {
+	font-size:28px;
+	margin: 0;
+	text-align:left;
+}
+h3 {
+	font-size:40px;
+	margin: 0;
+	text-align:left;
+}
+p {
+	
+	font-size: 25px;
+	color:pink;
+	text-align:left-indent;
+}
+#mission{
+ color:pink;
+
+}
